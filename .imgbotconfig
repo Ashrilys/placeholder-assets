@@ -3,6 +3,5 @@
     "aggressiveCompression": "false",
     "compressWiki": "true"
     "prTitle" : "[Auto] Placeholder's Image Optimization",        
-    "prBody" : "Optimization Ratio: {optimization_ratio} 
-                Optimization Details: {optimization_details}",
+    "prBody" : "Optimization Ratio: {optimization_ratio} | Optimization Details: {optimization_details}",
 }
